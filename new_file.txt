@@ -1,1 +1,1 @@
-System.out.println("java");
+System.out.println("Python");
